@@ -1,0 +1,11 @@
+User-agent: Mediapartners-Google
+
+Allow:
+
+User-agent: *
+
+Allow: /search
+
+Allow: /
+
+Sitemap: https://greenavenue-lrtcitybekasi.com/feeds/posts/default?orderby=UPDATED
